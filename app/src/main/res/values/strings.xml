@@ -44,4 +44,5 @@
      <item>Debug</item>
     </string-array>
 
+    <color name="black">#000000</color>
 </resources>
